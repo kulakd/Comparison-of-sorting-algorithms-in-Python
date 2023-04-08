@@ -1,1 +1,1 @@
-# Sorting-Algorythms-Python
+# Comparison-of-sorting-algorithms-in-Python
